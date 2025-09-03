@@ -1,0 +1,147 @@
+Perfecto 👌 ahora lo hacemos un poco más **clínico y complejo**, incluyendo enfermedades que sí requieren atención médica.
+
+Recuerda que esto es solo **información académica** para tu agente de IA, y no reemplaza el diagnóstico real de un médico.
+Al final de cada caso puedes programar que el agente diga algo como: *“Se recomienda asistencia médica inmediata/urgente”*.
+
+---
+
+# 🔹 Diagnósticos médicos más complejos con síntomas
+
+### 1. **Apendicitis aguda**
+
+* Síntomas:
+
+  * Dolor abdominal que comienza en la zona periumbilical y luego se desplaza al lado derecho inferior (fosa iliaca derecha).
+  * Náuseas y vómitos.
+  * Fiebre moderada.
+  * Pérdida del apetito.
+  * Dolor que empeora con el movimiento o al presionar el abdomen.
+* ⚠️ Recomendación: asistencia médica **urgente (posible cirugía)**.
+
+---
+
+### 2. **Neumonía**
+
+* Síntomas:
+
+  * Fiebre alta.
+  * Tos productiva con flema amarillenta o verdosa, a veces con sangre.
+  * Dolor torácico al respirar o toser.
+  * Dificultad para respirar.
+  * Escalofríos intensos.
+* ⚠️ Recomendación: asistencia médica **urgente**.
+
+---
+
+### 3. **Asma (crisis aguda)**
+
+* Síntomas:
+
+  * Dificultad para respirar.
+  * Silbidos (sibilancias) al exhalar.
+  * Tos nocturna o con el esfuerzo.
+  * Sensación de opresión torácica.
+* ⚠️ Recomendación: asistencia médica inmediata si no mejora con inhalador.
+
+---
+
+### 4. **Infarto agudo de miocardio (IAM)**
+
+* Síntomas:
+
+  * Dolor fuerte en el pecho (opresivo, que se irradia a brazo izquierdo, cuello o mandíbula).
+  * Sudor frío.
+  * Mareo o desmayo.
+  * Náuseas o vómitos.
+  * Falta de aire.
+* ⚠️ Recomendación: **emergencia médica inmediata** (llamar a urgencias).
+
+---
+
+### 5. **Accidente cerebrovascular (ACV)**
+
+* Síntomas:
+
+  * Debilidad o parálisis repentina en un lado del cuerpo.
+  * Dificultad para hablar o entender.
+  * Pérdida de visión en un ojo o visión doble.
+  * Dolor de cabeza muy intenso y repentino.
+  * Pérdida de equilibrio o coordinación.
+* ⚠️ Recomendación: **emergencia médica inmediata**.
+
+---
+
+### 6. **Colecistitis aguda (inflamación de la vesícula biliar)**
+
+* Síntomas:
+
+  * Dolor abdominal intenso en el lado derecho superior, que puede irradiar al hombro derecho.
+  * Náuseas y vómitos.
+  * Fiebre.
+  * Dolor que empeora tras comidas grasas.
+* ⚠️ Recomendación: asistencia médica **urgente**.
+
+---
+
+### 7. **Insuficiencia renal aguda**
+
+* Síntomas:
+
+  * Disminución de la cantidad de orina.
+  * Hinchazón en piernas, tobillos o párpados.
+  * Fatiga extrema.
+  * Náuseas, vómitos.
+  * Confusión o somnolencia.
+* ⚠️ Recomendación: asistencia médica inmediata.
+
+---
+
+### 8. **Meningitis**
+
+* Síntomas:
+
+  * Fiebre alta repentina.
+  * Dolor de cabeza intenso.
+  * Rigidez de cuello.
+  * Náuseas y vómitos.
+  * Somnolencia, convulsiones o confusión.
+* ⚠️ Recomendación: **emergencia médica inmediata**.
+
+---
+
+### 9. **Hemorragia digestiva**
+
+* Síntomas:
+
+  * Vómito con sangre (hematemesis).
+  * Heces negras y alquitranadas (melenas).
+  * Debilidad o mareo.
+  * Palidez intensa.
+  * Taquicardia.
+* ⚠️ Recomendación: **urgencias médicas inmediatas**.
+
+---
+
+### 10. **Neumotórax (colapso pulmonar)**
+
+* Síntomas:
+
+  * Dolor torácico súbito y agudo.
+  * Dificultad respiratoria repentina.
+  * Aumento de la frecuencia cardíaca.
+  * Ansiedad, sensación de muerte inminente.
+  * Asimetría en la expansión del tórax.
+* ⚠️ Recomendación: asistencia médica **inmediata**.
+
+---
+
+📌 Con estos casos, tu agente de IA puede:
+
+1. Recibir síntomas del usuario.
+2. Compararlos con la base de datos.
+3. Dar posibles diagnósticos.
+4. **Siempre terminar con una recomendación de acudir a un profesional**.
+
+---
+
+¿Quieres que ahora te arme una **tabla comparativa (enfermedad – síntomas – urgencia)** para que sea más fácil usarla en tu código de diagnóstico?
