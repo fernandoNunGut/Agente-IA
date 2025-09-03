@@ -1,0 +1,140 @@
+Perfecto 👌, te ayudo a organizar esto para tu tarea.
+Primero que todo: los **diagnósticos médicos siempre los debe confirmar un profesional de la salud**. Lo que te voy a dar son ejemplos de **diagnósticos básicos (simples)** con síntomas frecuentes que pueden orientar a un **posible diagnóstico preliminar**.
+
+---
+
+## 🔹 Tipos de diagnósticos médicos básicos y síntomas asociados
+
+### 1. **Resfriado común (infección viral leve)**
+
+* Síntomas:
+
+  * Congestión nasal
+  * Estornudos
+  * Dolor de garganta leve
+  * Tos seca o con poca flema
+  * Fiebre baja (no siempre)
+  * Malestar general
+
+---
+
+### 2. **Gripe (influenza)**
+
+* Síntomas:
+
+  * Fiebre alta repentina
+  * Escalofríos
+  * Dolor de cabeza
+  * Dolores musculares y articulares
+  * Fatiga intensa
+  * Tos seca y persistente
+
+---
+
+### 3. **Alergia estacional o rinitis alérgica**
+
+* Síntomas:
+
+  * Estornudos repetidos
+  * Congestión o goteo nasal claro
+  * Ojos llorosos y con picazón
+  * Irritación en garganta
+  * Ausencia de fiebre
+
+---
+
+### 4. **Gastritis**
+
+* Síntomas:
+
+  * Dolor o ardor en la parte superior del abdomen
+  * Náuseas
+  * Vómitos ocasionales
+  * Sensación de llenura después de comer poco
+  * Eructos frecuentes
+
+---
+
+### 5. **Infección urinaria (cistitis leve)**
+
+* Síntomas:
+
+  * Ardor al orinar
+  * Aumento de la frecuencia urinaria
+  * Orina turbia o con mal olor
+  * Dolor bajo abdominal o lumbar
+  * En casos más graves: fiebre
+
+---
+
+### 6. **Migraña**
+
+* Síntomas:
+
+  * Dolor de cabeza intenso, pulsátil, localizado (frontal o lateral)
+  * Náuseas y vómitos
+  * Sensibilidad a la luz (fotofobia)
+  * Sensibilidad al ruido (fonofobia)
+  * Puede durar horas o días
+
+---
+
+### 7. **Hipertensión arterial (detectable en control básico)**
+
+* Síntomas (muchas veces asintomática):
+
+  * Dolor de cabeza (especialmente en la mañana)
+  * Mareos
+  * Visión borrosa
+  * Palpitaciones
+  * Fatiga
+
+---
+
+### 8. **Diabetes no controlada (signos iniciales)**
+
+* Síntomas:
+
+  * Sed excesiva (polidipsia)
+  * Aumento de la frecuencia urinaria (poliuria)
+  * Hambre exagerada (polifagia)
+  * Pérdida de peso inexplicable
+  * Fatiga
+
+---
+
+### 9. **Ansiedad**
+
+* Síntomas:
+
+  * Nerviosismo, inquietud
+  * Palpitaciones
+  * Dificultad para dormir
+  * Sensación de falta de aire
+  * Sudoración excesiva
+
+---
+
+### 10. **Depresión leve**
+
+* Síntomas:
+
+  * Tristeza persistente
+  * Pérdida de interés o placer en actividades
+  * Fatiga constante
+  * Alteraciones del sueño (insomnio o dormir demasiado)
+  * Cambios en el apetito
+
+---
+
+## 🔹 Idea para clasificar después
+
+Un sistema sencillo de clasificación (por ejemplo, en un programa en Python) podría ser:
+
+* El usuario ingresa síntomas.
+* Se comparan con una base de datos de síntomas.
+* El programa sugiere posibles diagnósticos **no definitivos** (ejemplo: "Tus síntomas coinciden con resfriado común o alergia").
+
+---
+
+👉 ¿Quieres que te organice esto en forma de **tabla de síntomas vs enfermedades** para que tu agente de diagnóstico lo pueda usar más fácil en el código?
